@@ -30,7 +30,7 @@ const About = () => {
         <div className="about__andreu-bio">
           <FaQuoteLeft />
           <p>
-            As someone who's a polyglot, I believe anyone can learn a language
+            As an experienced language teacher, I believe anyone can learn a language
             to a high-level of fluency and I want to help you achieve this
           </p>
           <FaQuoteRight />
